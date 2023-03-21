@@ -1,16 +1,16 @@
-### Hi there 👋
+# Olá eu sou a Taís 👋
 
-<!--
-**TaisCdS/TaisCds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taiscampos-webdev/) 
 
-Here are some ideas to get you started:
+<br>
+<img alt="Welcome" src="https://user-images.githubusercontent.com/112699437/226509797-678d23ac-49d0-466a-8e58-9f91dc9621ba.png" style="width: 200vh" >
+<br>
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Taís GitHub stats](https://github-readme-stats.vercel.app/api?username=TaisCdS&show_icons=true&theme=dark)
+
+### Tecnologias 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaisCdS&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+ 
